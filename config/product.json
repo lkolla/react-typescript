@@ -72,6 +72,7 @@
         "display": "In stock",
         "value": "IN_STOCK"
       },
+      "isWplusMember": false,
       "averageRating": 4.5276,
       "associatedBundleId": null,
       "suppressReviews": false,
