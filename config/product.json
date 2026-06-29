@@ -1,325 +1,242 @@
 {
   "data": {
-    "product": {
-      "category": {
-        "categoryPathId": "0:3944:133251:1095191:1231498:2452446:8039036",
-        "path": [
-          { "name": "Electronics", "url": "/cp/electronics/3944" },
-          { "name": "Audio", "url": "/cp/audio/133251" },
-          { "name": "Headphones", "url": "/cp/headphones/1095191" },
-          {
-            "name": "Shop Headphones by Brand",
-            "url": "/cp/shop-headphones-by-brand/1231498"
+    "contentLayout": {
+      "modules": [
+        {
+          "configs": {
+            "__typename": "TempoWM_GLASSWWWFulfillmentConfigs",
+            "showWPlusComponent": "True",
+            "wPlusSubtitle": "Try 30 days of free delivery + more! Choose your plan at checkout.",
+            "wPlusSubtitleColor": "#2e2f32",
+            "wPlusTitle": "I want delivery savings + more with",
+            "wPlusTitleColor": "#2e2f32",
+            "isStickyBuybox": "False",
+            "wPlusCtaLink": {
+              "linkText": "I want delivery savings + more with",
+              "title": "I want delivery savings + more with",
+              "clickThrough": {
+                "value": "https://www.walmart.ca/en?programId=cadisa50mft&wplusSignupOffer=true&athAsset=eyJhdGhjcGlkIjoiY2U2YTM4ODgtY2M5Yy00MTNmLWE3YjAtYTk0N2UwN2E2NjRmIiwiYXRoc3RpZCI6IkNTMTAwIiwiYXRodHZpZCI6IjMiLCJhdGhiYW1oZCI6MS4wLCJhdGhiYW1yZCI6MS4wfQ==&athena=true&athstid=CS100&athguid=5036BNVXp97x-q-PKNUhnwyb6b5mk5iBsTaH"
+              },
+              "uid": "ye_lHRtB"
+            },
+            "programId": null,
+            "shouldHideFulfillmentOptInCheckbox": null,
+            "basketMinMessage": null,
+            "promotions": null
           },
-          { "name": "Apple AirPods", "url": "/cp/apple-airpods/2452446" },
-          { "name": "AirPods", "url": "/cp/airpods/8039036" }
+          "moduleId": "8df9c749-4006-4430-9df3-c218f8820c9c",
+          "matchedTrigger": {
+            "pageType": "ItemPageGlobalDesktop",
+            "pageId": "global_evergreen",
+            "zone": "rightMiddleZone80",
+            "inheritable": false
+          },
+          "name": "Item Page | DP Opt In | Free Trial Eligible ICXO",
+          "type": "Fulfillment",
+          "version": 14,
+          "status": "published",
+          "publishedDate": 1777477797583
+        }
+      ]
+    },
+    "product": {
+      "subscriptionEligible": true,
+      "buyBoxSuppression": false,
+      "discounts": {
+        "discountedValue": {
+          "price": 16.13,
+          "priceString": "$16.13"
+        },
+        "discountMetaData": [
+          {
+            "id": "957507c3-91ac-4195-89da-d1b7ea97aeac",
+            "type": "PERCENT_OFF",
+            "savings": {
+              "amount": 0.85,
+              "priceString": "$0.85",
+              "percent": 5
+            },
+            "price": {
+              "price": 16.13,
+              "priceString": "$16.13",
+              "priceDisplay": null
+            },
+            "unitPrice": null,
+            "comparisonPrice": null,
+            "unitPriceDisplayCondition": null
+          }
         ]
       },
-      "classType": "REGULAR",
-      "classId": "19",
+      "availabilityStatus": "IN_STOCK",
+      "availabilityStatusV2": {
+        "display": "In stock",
+        "value": "IN_STOCK"
+      },
+      "averageRating": 4.5276,
+      "associatedBundleId": null,
+      "suppressReviews": false,
+      "brand": "Bounty",
+      "brandUrl": "/en/search?q=bounty&x=1",
+      "canonicalUrl": "/en/ip/Bounty-Paper-Towel-8-Rolls-16-Regular-Rolls-Equivalent/6000208927194",
+      "catalogSellerId": 0,
       "fulfillmentTitle": "title_shipToHome_date_delivery",
-      "shortDescription": "Just when you thought audio couldn't get any better, the Apple AirPods 4 redefine what it means to experience sound. These iconic earbuds have evolved into a supersonic marvel, offering a completely transformed audio experience that immerses you in theater-like sound. With Personalized Spatial Audio and dynamic head tracking, AirPods 4 create a three-dimensional listening environment, enveloping you in sound whether you're enjoying music, TV shows, movies, or games.Powered by the advanced H2 chip, AirPods 4 deliver a roaring leap in capabilities, enhancing both audio and call quality. These earbuds adapt intelligently to any listening environment, offering features like Voice Isolation, which uses computational audio to minimize background noise and clarify your voice, ensuring superclear call quality even in loud or windy conditions.The new acoustic architecture of AirPods 4 is a testament to Apple's innovation, featuring a low-distortion driver and a custom high dynamic range amplifier. This combination allows you to hear music in exceptional detail, with deeper bass and crystal-clear highs. The Adaptive EQ further personalizes your listening experience by automatically tuning music to your ears, adjusting low and midrange frequencies for rich detail in every song.Stay connected with real-time clarity on FaceTime, thanks to the AAC-ELD speech codec, and enjoy more lifelike Group FaceTime calls with support for Personalized Spatial Audio. Redesigned for comfort, AirPods 4 offer an exceptional fit and all-day comfort with a refined contour and new internal architecture that provides greater stability during movement.The updated stem features a force sensor for easy control of playback and calls with a simple pinch. Rated IP54 for dust, sweat, and water resistance, AirPods 4 and their charging case are built to withstand everything from rain to intense workouts. The streamlined charging case is more than 10 percent smaller than its predecessor, yet it offers up to 30 hours of listening time with the case and up to 5 hours on a single charge.With USB-C charging capabilities, AirPods 4 ensure fast and convenient power-ups. They pair instantly with any device connected to your Apple ID, offering seamless transitions across iPhone, Apple Watch, Apple Vision Pro, iPad, Mac, and Apple TV. The earbuds detect when you remove them, pausing playback until they're back in your ears.Track your AirPods 4 effortlessly with the Find My app, receiving separation alerts if they stray out of Bluetooth range. Siri is always on standby, ready to assist with music, calls, directions, or schedule checks. You can even nod or shake your head to manage notifications without speaking. Share audio easily between two sets of AirPods by bringing them near your iPhone, iPad, or Apple TV for instant connection.Experience the future of sound with Apple AirPods 4, where innovation meets unparalleled audio performance.",
+      "shortDescription": "Bounty Paper Towels are 2x more absorbent, so you can clean up messes quicker and use less than the leading ordinary brand. Each sheet has a Durable Diamond Texture to tackle anything from everyday spills to tough projects throughout your home. A variety of pack and rolls sizes are available, and going bigger means you change the roll less often* to always have Bounty on hand. Buy in bulk! Choose from different sheet sizes based on what works best for your needs, including Select-A-Size and Full-Size. You can also change it up with our printed designs. *vs Bounty Regular Roll",
       "fulfillmentType": "FC",
-      "id": "243ESPUGUSOJ",
-      "conditionType": "New",
-      "imageInfo": {
-        "allImages": [
-          {
-            "id": "915F83D2A4AE46C48A9D41ED1B878AEA",
-            "url": "https://i5.walmartimages.com/seo/Apple-AirPods-4_970671e7-764d-4536-9f51-666941f35ad3.012d4c1b577966703dc4b6947a77677b.jpeg",
-            "zoomable": true
-          },
-          {
-            "id": "CCAAD12024C54D048C1F6CC70BB16122",
-            "url": "https://i5.walmartimages.com/asr/b4674342-45cb-466a-998c-b3fff7c1aef0.c69a475c3208a8e546256df06cb93c6d.jpeg",
-            "zoomable": true
-          },
-          {
-            "id": "AA5210BAD5004B8F9CEB392800593313",
-            "url": "https://i5.walmartimages.com/asr/a3aaba30-620b-43d2-9b6c-4fd4c94a5085.99b9f4606ee725a25d3ae376cd6c5595.jpeg",
-            "zoomable": true
-          },
-          {
-            "id": "E930569C4B434D8EA7DBFE50E34F500E",
-            "url": "https://i5.walmartimages.com/asr/5156bffb-572b-4e2f-8692-a9c9277521f2.94f3715f66d75062c6e1a349dd35e7e1.jpeg",
-            "zoomable": true
-          },
-          {
-            "id": "55643FC9EFCF4A22BF5FE5FDA64795C5",
-            "url": "https://i5.walmartimages.com/asr/609969a8-a18b-49be-828e-a2c059a7f836.5a71c73eb123c8ce7c504798221dbebb.jpeg",
-            "zoomable": true
-          }
+      "id": "6000208927193",
+      "abstractProductId": "6000208927193",
+      "name": "Bounty Paper Towel 8 Rolls (16 Regular Rolls Equivalent)",
+      "pickupOption": {
+        "slaTier": null,
+        "accessTypes": [
+          "PICKUP_INSTORE",
+          "PICKUP_CURBSIDE"
         ],
-        "thumbnailUrl": "https://i5.walmartimages.com/seo/Apple-AirPods-4_970671e7-764d-4536-9f51-666941f35ad3.012d4c1b577966703dc4b6947a77677b.jpeg",
-        "thumbnailAspectRatio": "1:1"
+        "availabilityStatus": "AVAILABLE",
+        "storeName": null,
+        "storeId": null
       },
-      "name": "Apple AirPods 4",
-      "externalInfo": null,
-      "numberOfReviews": 73952,
-      "orderMinLimit": 1,
-      "orderLimit": 5,
-      "weightIncrement": 1,
-      "offerId": "D177225C722B360B9D9A90F04C271FC1",
-      "offerType": "ONLINE_AND_STORE",
-      "priceInfo": {
-        "dropPrice": false,
-        "priceDisplayCodes": {
-          "clearance": null,
-          "eligibleForAssociateDiscount": true,
-          "finalCostByWeight": null,
-          "priceDisplayCondition": null,
-          "reducedPrice": null,
-          "rollback": true,
-          "submapType": null,
-          "isB2BPrice": false,
-          "pricePerUnitUom": null,
-          "priceDisplayType": "UNKNOWN"
-        },
-        "currentPrice": {
-          "price": 99,
-          "priceString": "$99.00",
-          "variantPriceString": "$99.00",
-          "currencyUnit": "USD",
-          "bestValue": null,
-          "supportText": null,
-          "priceDisplay": "Now $99.00"
-        },
-        "basePrice": null,
-        "wasPrice": {
-          "price": 129.99,
-          "priceString": "$129.99",
-          "variantPriceString": null,
-          "currencyUnit": "USD",
-          "bestValue": null,
-          "supportText": null
-        },
-        "comparisonPrice": null,
-        "unitPrice": {
-          "price": 99,
-          "priceString": "$99.00/count",
-          "variantPriceString": null,
-          "currencyUnit": "USD",
-          "bestValue": null,
-          "supportText": null
-        },
-        "savings": null,
-        "savingsAmount": { "amount": 30.99, "priceString": "SAVE $30.99" },
-        "secondaryOfferBoost": null,
-        "shipPrice": null,
-        "isPriceReduced": true,
-        "priceReducedDisplay": "Now $99.00",
-        "subscriptionPrice": null,
-        "priceRange": {
-          "minPrice": null,
-          "maxPrice": null,
-          "priceString": null,
-          "currencyUnit": null,
-          "denominations": null
-        },
-        "listPrice": null,
-        "capType": null,
-        "volumePriceTiers": [],
-        "walmartFundedAmount": null,
-        "wPlusEarlyAccessPrice": null,
-        "additionalFees": {
-          "dutyFee": { "price": 0, "priceString": "$0.00" },
-          "shippingAndImportFee": { "price": 0, "priceString": "$0.00" },
-          "giftCardMarginAndFee": null,
-          "estimatedTotalPrice": { "price": 99, "priceString": "$99.00" },
-          "countryName": "United States"
-        },
-        "taxInfo": null
-      },
-      "fsaEligibleInd": false,
-      "sellerId": "F55CDC31AB754BB68FE0B39041159D63",
-      "sellerName": "Walmart.com",
-      "sellerDisplayName": "Walmart.com",
-      "sellerStoreFrontURL": null,
-      "sellerLogoURL": null,
-      "semStoreData": null,
-      "type": "Headphones",
-
       "salesUnit": "EACH",
-      "usItemId": "11381374703",
-
-      "showAddOnServices": true,
-      "addOnServices": [
+      "usItemId": "6000208927194",
+      "transactableOfferCount": 1,
+      "maxRewardAmongAllVariants": null,
+      "variantCriteria": null,
+      "variants": null,
+      "groupMetaData": null,
+      "upc": "030772157060",
+      "wfsEnabled": false,
+      "wfsProviderName": null,
+      "sellerType": "INTERNAL",
+      "fulfillmentSummary": [
         {
-          "serviceType": "CAREPLAN",
-          "serviceTitle": "Protect your purchase",
-          "serviceSubTitle": "Protect your Headphones with AppleCare+.",
-          "serviceProviders": [],
-          "groups": [
-            {
-              "groupType": "APPLE_CARE",
-              "groupTitle": "AppleCare+",
-              "assetUrl": "https://i5.walmartimages.com/seo/AppleCare-for-AirPods_629a0ebe-f25b-422f-8a63-0c73f860d3f1.5a171f87e4d6623597403ec20dcc1a1c.png",
-              "shortDescription": "<p>AppleCare+ extends your technical support and repair coverage for AirPods, Beats earphones, or Beats headphones to two years from your AppleCare+ purchase date. And it adds coverage for unlimited incidents of accidental damage from handling, each subject to a service fee of $29 plus applicable tax. In addition, you’ll get 24/7 priority access to Apple experts by chat or phone.</p><p><b>Key Features</b></p><ul><li>24/7 priority access to Apple experts by chat or phone</li><li>Mail-in or carry-in repairs</li><li>Express Replacement Service</li><li>Hardware Coverage for your headphones and battery</li><li>Coverage for unlimited incidents of accidental damage from handling, each subject to a service fee of $29 plus applicable tax</li></ul>",
-              "longDescription": "<ul><li>Unlimited accidental damage repairs</li><li>Repairs backed by Apple</li><li>Hardware and battery coverage</li><li>24/7 priority technical support</li></ul>",
-              "groupModuleTitle": "AppleCare+",
-              "groupModuleSubTitle": null,
-              "secondaryAssetUrl": "",
-              "unavailabilityReason": null,
-              "nearByStores": null,
-              "services": [
-                {
-                  "name": "2-Year Plan",
-                  "displayName": "2-Year Plan - $29.00",
-                  "offerId": "BB0F1C8995694FEDBD71F57A388FBF93",
-                  "usItemId": "242638163",
-                  "selectedDisplayName": "AppleCare+ - 2-Year Plan",
-                  "serviceMetaData": null,
-                  "currentPrice": { "price": 29, "priceString": "$29.00" },
-                  "giftEligible": true,
-                  "offerIdList": []
-                }
-              ]
-            },
-            {
-              "groupType": "WPP",
-              "groupTitle": "Walmart Protection Plan",
-              "assetUrl": "https://i5.walmartimages.com/seo/2-Year-General-Electronics-ADH-Protection-Plan-90-99-99_d95ac285-8163-48d6-b457-1670487bb64f.121f062502aacaa37eec9641a17652e1.jpeg",
-              "shortDescription": "<p><b>Protect it today, enjoy it for years.</b></p><p></p><p> Get award-winning Allstate service and support that goes above and beyond the manufacturer’s warranty.</p><p><b> General merchandise plans cover:</b></p><ul><li> Accidents like drops, cracked screens & liquid damage </li><li> Breakdowns or failures during normal use including rips, tears & broken zippers </li><li> Fast repairs & replacements with easy online claims available 24/7</li><li>Includes 100% parts & labor with no hidden fees </li></ul><p><b> When you add your new item to cart, be sure to add a Walmart Protection Plan, too.</b></p><p> Simply add your plan at checkout. There’s no need to register your plan for it to be active. We’ll email you protection plan details after you check out.</p><p>See <a href=\"https://www.squaretrade.com/walmartterms/\" rel=\"nofollow\">Terms and Conditions</a> for additional details.</p>",
-              "longDescription": "<ul><li>Accidents like drops, cracked screens & liquid damage</li><li>Breakdowns or failures during normal use including rips, tears & broken zippers</li><li>Fast repairs & replacements with easy online claims available 24/7</li><li>Includes 100% parts & labor with no hidden fees</li></ul>",
-              "groupModuleTitle": "Walmart Accident Plan by Allstate",
-              "groupModuleSubTitle": null,
-              "secondaryAssetUrl": "",
-              "unavailabilityReason": null,
-              "nearByStores": null,
-              "services": [
-                {
-                  "name": "2-Year Plan",
-                  "displayName": "2-Year Plan - $15.00",
-                  "offerId": "4A87D1196A0237DAB85EE1FE59B21DE1",
-                  "usItemId": "11167302052",
-                  "selectedDisplayName": "Walmart Protection Plan - 2-Year Plan",
-                  "serviceMetaData": null,
-                  "currentPrice": { "price": 15, "priceString": "$15.00" },
-                  "giftEligible": false,
-                  "offerIdList": []
-                },
-                {
-                  "name": "3-Year Plan",
-                  "displayName": "3-Year Plan - $18.00",
-                  "offerId": "E52AA9B1720F352495895425440F0FD6",
-                  "usItemId": "11154624913",
-                  "selectedDisplayName": "Walmart Protection Plan - 3-Year Plan",
-                  "serviceMetaData": null,
-                  "currentPrice": { "price": 18, "priceString": "$18.00" },
-                  "giftEligible": false,
-                  "offerIdList": []
-                }
-              ]
-            }
-          ]
+          "outOfCountryEligible": null,
+          "fulfillment": "DELIVERY",
+          "storeId": "2000",
+          "deliveryDate": "2026-06-30T19:00:00.000Z",
+          "sla": {
+            "unitOfMeasure": "DAY",
+            "measurementValue": 1,
+            "rank": null
+          },
+          "calculatedSlaDays": null,
+          "fulfillmentMethods": [
+            "UNSCHEDULED"
+          ],
+          "fulfillmentPrice": null,
+          "fulfillmentDiscount": null,
+          "fulfillmentBadge": null,
+          "isFreeForWPlus": null,
+          "isExpress": false,
+          "maxDeliveryDate": "2026-06-30T19:00:00.000Z",
+          "regularSla": null,
+          "storeDeliveryDate": null,
+          "storeMaxDeliveryDate": null,
+          "storeTimezone": "America/Toronto"
         },
         {
-          "serviceType": "SERVICES",
-          "serviceTitle": "4 free offers, including Apple TV up to 3 months free",
-          "serviceSubTitle": "",
-          "serviceProviders": [],
-          "groups": [
-            {
-              "groupType": "INCLUDED_SERVICES",
-              "groupTitle": "Apple TV up to 3 months free",
-              "assetUrl": "https://i5.walmartimages.com/seo/Apple-TV-up-to-3-months-free_c516dc23-020e-48c3-bf31-33906201a197.b4fce0300ba1a91a8cc1e0dc94865e17.png",
-              "shortDescription": "<p>Apple TV offers award-winning Apple Original series and films, including dramas, comedies, and sci-fi. There are new Apple Originals added every month. Stream on Apple devices, smart TVs, consoles, or sticks.</p>",
-              "longDescription": "<ul><li>Episodes, shows, and movies—something new every week</li><li>Stream on Apple devices, smart TVs, consoles, or sticks</li><li>The highest-quality movies and shows with no ads</li><li>Download Apple Originals and watch them offline</li></ul>",
-              "groupModuleTitle": null,
-              "groupModuleSubTitle": null,
-              "secondaryAssetUrl": "https://i5.walmartimages.com/asr/9b29784b-4566-42d1-a8c7-ac3b57aa73b3.5bd5576ea60e546a7c5e6190e26c008e.png",
-              "unavailabilityReason": null,
-              "nearByStores": null,
-              "services": [
-                {
-                  "name": "",
-                  "displayName": "",
-                  "offerId": "118BF9C4A858360B82FDBD974C86AE17",
-                  "usItemId": "",
-                  "selectedDisplayName": "",
-                  "serviceMetaData": null,
-                  "currentPrice": null,
-                  "giftEligible": false,
-                  "offerIdList": []
-                }
-              ]
-            },
-            {
-              "groupType": "INCLUDED_SERVICES",
-              "groupTitle": "Apple Music up to 4 months free",
-              "assetUrl": "https://i5.walmartimages.com/seo/Apple-Music-up-to-4-months-free_113050d6-8d87-4ca1-975d-f33a78df89bb.5d81e509ccfecb694182a0d86ea4eafc.png",
-              "shortDescription": "<p>Apple Music gives you access to over 100 million songs and 30,000 playlists, ad-free. Listen online or off, across all your devices, and hear sound all around in Spatial Audio with Dolby Atmos.<sup>*</sup></p>\n<p><small>*Compatible hardware and software required. Not all content available in Spatial Audio with Dolby Atmos.</small></p>\n\n<ul><li>Hear sound all around you in Spatial Audio with Dolby Atmos<sup>*</sup></li><li>Download your favorite tracks and play them offline</li><li>Listen everywhere with iOS, Android, connected devices, top gaming consoles, and more</li><li>Browse thousands of curated playlists for every mood</li></ul>",
-              "longDescription": "<ul><li>Hear sound all around you in Spatial Audio with Dolby Atmos*</li><li>Download your favorite tracks and play them offline</li><li>Listen everywhere with iOS, Android, connected devices, top gaming consoles, and more</li><li>Listen everywhere with iOS, Android, connected devices, top gaming consoles, and more</li></ul>",
-              "groupModuleTitle": null,
-              "groupModuleSubTitle": null,
-              "secondaryAssetUrl": "https://i5.walmartimages.com/asr/e6d9263f-3944-4526-8d5f-2194d6578407.40130aa05189b5db85562c7e5fc19be6.png",
-              "unavailabilityReason": null,
-              "nearByStores": null,
-              "services": [
-                {
-                  "name": "",
-                  "displayName": "",
-                  "offerId": "2855D6DD321237C8B75D085458BFD4AA",
-                  "usItemId": "",
-                  "selectedDisplayName": "",
-                  "serviceMetaData": null,
-                  "currentPrice": null,
-                  "giftEligible": false,
-                  "offerIdList": []
-                }
-              ]
-            },
-            {
-              "groupType": "INCLUDED_SERVICES",
-              "groupTitle": "Apple Fitness+ up to 3 months free",
-              "assetUrl": "https://i5.walmartimages.com/seo/Apple-Fitness-up-to-3-months-free_dbf0b68c-0c5e-4d4b-92af-d4dc260bf048.4763c437e0961036bba315be826d9d3f.png",
-              "shortDescription": "<p>Fitness for everyone. Personalized just for you</p>\n\n<ul><li>Find Apple Fitness+ in the Fitness app on iPhone, iPad, and Apple TV and Apple Watch</li><li>12 workout types, from HIIT to Yoga. Meditation, too</li><li>Workouts and meditations from 5–45 minutes, with new ones added every week</li><li>Stay motivated and create your own schedule with Custom Plans</li><li>Supercharge your experience with real-time metrics from Apple Watch.</li></ul>",
-              "longDescription": "<ul><li>Find Apple Fitness+ in the Fitness app on iPhone, iPad, and Apple TV  and Apple Watch</li><li>12 workout types, from HIIT to Yoga. Meditation, too</li><li>Stay motivated and create your own schedule with Custom Plans</li><li>Supercharge your experience with real-time metrics from Apple Watch.</li></ul>",
-              "groupModuleTitle": null,
-              "groupModuleSubTitle": null,
-              "secondaryAssetUrl": "https://i5.walmartimages.com/asr/e54430ef-b085-4058-bde0-94569194a140.a25b99d56bbf500af70cc75302f0ceb4.png",
-              "unavailabilityReason": null,
-              "nearByStores": null,
-              "services": [
-                {
-                  "name": "",
-                  "displayName": "",
-                  "offerId": "4BAAC15CD74F349D8ECF727DCE1C6051",
-                  "usItemId": "",
-                  "selectedDisplayName": "",
-                  "serviceMetaData": null,
-                  "currentPrice": null,
-                  "giftEligible": false,
-                  "offerIdList": []
-                }
-              ]
-            },
-            {
-              "groupType": "INCLUDED_SERVICES",
-              "groupTitle": "Apple Arcade up to 4 months free",
-              "assetUrl": "https://i5.walmartimages.com/seo/Apple-Arcade-up-to-4-months-free_ab2c424f-5060-452d-bbaa-811439264c09.6186d3847bc129ba4b9804dad5a5e89e.png",
-              "shortDescription": "<p>Enjoy unlimited access to over 200 incredibly fun games, with no ads and no in-app purchases. Up to six people can play across your Apple devices. Offer available only for iOS devices.</p>  <ul><li>Unlimited access to over 200 games</li><li>Up to 4-month free trial; cancel anytime</li><li>No ads, no in-app purchases</li><li>Download to play offline</li><li>Play across your Apple devices</li><li>Includes access for up to six people</li></ul>  <p>Apple Arcade is only available on Apple devices. Internet connection required for some Apple Arcade games on Apple TV. Internet connection required for some Apple Arcade games on Apple TV. Game controllers work with select games and are sold separately.</p>",
-              "longDescription": "<ul><li>Unlimited access to over 200 games</li><li>Up to 4-month free trial; cancel anytime</li><li>No ads, no in-app purchases</li><li>Download to play offline</li></ul>",
-              "groupModuleTitle": null,
-              "groupModuleSubTitle": null,
-              "secondaryAssetUrl": "https://i5.walmartimages.com/asr/4d77d939-2914-4a65-b307-6d92a1de6fae.da5138634ee934032e8cc6f79c67311a.png",
-              "unavailabilityReason": null,
-              "nearByStores": null,
-              "services": [
-                {
-                  "name": "",
-                  "displayName": "",
-                  "offerId": "FDD1718B056836F5B7A2CCBFC497F89B",
-                  "usItemId": "",
-                  "selectedDisplayName": "",
-                  "serviceMetaData": null,
-                  "currentPrice": null,
-                  "giftEligible": false,
-                  "offerIdList": []
-                }
-              ]
-            }
-          ]
+          "outOfCountryEligible": null,
+          "fulfillment": "DELIVERY",
+          "storeId": "1061",
+          "deliveryDate": null,
+          "sla": {
+            "unitOfMeasure": "DAY",
+            "measurementValue": 1,
+            "rank": null
+          },
+          "calculatedSlaDays": null,
+          "fulfillmentMethods": [
+            "UNSCHEDULED",
+            "SCHEDULED"
+          ],
+          "fulfillmentPrice": null,
+          "fulfillmentDiscount": null,
+          "fulfillmentBadge": null,
+          "isFreeForWPlus": null,
+          "isExpress": true,
+          "maxDeliveryDate": null,
+          "regularSla": {
+            "deliveryDate": "2026-06-30T10:00:00.000Z",
+            "fulfillmentBadge": null,
+            "maxDeliveryDate": "2026-06-30T12:00:00.000Z",
+            "storeDeliveryDate": null,
+            "storeMaxDeliveryDate": null
+          },
+          "storeDeliveryDate": "2026-06-30T06:00:00.000-04:00",
+          "storeMaxDeliveryDate": "2026-06-30T08:00:00.000-04:00",
+          "storeTimezone": "America/Toronto"
+        },
+        {
+          "outOfCountryEligible": null,
+          "fulfillment": "PICKUP",
+          "storeId": "1061",
+          "deliveryDate": "2026-06-30T00:39:11.000Z",
+          "sla": {
+            "unitOfMeasure": "DAY",
+            "measurementValue": 0,
+            "rank": null
+          },
+          "calculatedSlaDays": null,
+          "fulfillmentMethods": [
+            "UNSCHEDULED"
+          ],
+          "fulfillmentPrice": null,
+          "fulfillmentDiscount": null,
+          "fulfillmentBadge": null,
+          "isFreeForWPlus": null,
+          "isExpress": false,
+          "maxDeliveryDate": "2026-06-30T00:39:11.000Z",
+          "regularSla": null,
+          "storeDeliveryDate": "2026-06-29T20:39:11.000-04:00",
+          "storeMaxDeliveryDate": "2026-06-29T20:39:11.000-04:00",
+          "storeTimezone": "America/Toronto"
+        }
+      ],
+      "availableFulfillmentOptions": [
+        "UNSCHEDULED_PICKUP",
+        "SCHEDULED_DELIVERY",
+        "UNSCHEDULED_DELIVERY"
+      ],
+      "fulfillmentLabel": [
+        {
+          "checkStoreAvailability": null,
+          "wPlusFulfillmentText": null,
+          "message": "Free pickup over $35, today at HEARTLAND, MISSISSAUGA,ON",
+          "shippingText": "Free pickup over $35",
+          "fulfillmentText": "today",
+          "locationText": "HEARTLAND, MISSISSAUGA,ON",
+          "fulfillmentType": "STORE",
+          "fulfillmentMethod": "PICKUP",
+          "addressEligibility": false,
+          "postalCode": null,
+          "sla": null,
+          "deliveryDate": "2026-06-30T00:39:11.000Z"
+        },
+        {
+          "checkStoreAvailability": null,
+          "wPlusFulfillmentText": null,
+          "message": "Express delivery from store, as soon as 6am tomorrow to Mississauga, L5V 2N6",
+          "shippingText": "Express delivery from store",
+          "fulfillmentText": "as soon as 6am tomorrow",
+          "locationText": "Mississauga, L5V 2N6",
+          "fulfillmentType": "STORE",
+          "fulfillmentMethod": "DELIVERY",
+          "addressEligibility": false,
+          "postalCode": "L5V 2N6",
+          "sla": "SAME_DAY_EXPRESS",
+          "deliveryDate": "2026-06-30T10:00:00.000Z"
+        },
+        {
+          "checkStoreAvailability": null,
+          "wPlusFulfillmentText": null,
+          "message": "Free delivery over $35, arrives tomorrow to Mississauga, L5V 2N6",
+          "shippingText": "Free delivery over $35",
+          "fulfillmentText": "arrives tomorrow",
+          "locationText": "Mississauga, L5V 2N6",
+          "fulfillmentType": "FC",
+          "fulfillmentMethod": "SHIPPING",
+          "addressEligibility": false,
+          "postalCode": "L5V 2N6",
+          "sla": "SAME_DAY_EXPRESS",
+          "deliveryDate": "2026-06-30T19:00:00.000Z"
         }
       ]
     }
